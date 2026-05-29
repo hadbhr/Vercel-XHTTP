@@ -12,7 +12,7 @@ A minimal relay running on **Vercel Edge Functions** that forwards **XHTTP** tra
 
 ---     
   
- 
+  
 ## این پروژه برای 
 
 این پروژه فقط زمانی به دردت می‌خوره که **خودت یک سرور Xray با XHTTP داری** و می‌خوای IP اون رو با Vercel استتار کنی.
