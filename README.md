@@ -11,9 +11,9 @@
 A minimal relay running on **Vercel Edge Functions** that forwards **XHTTP** traffic from your Xray/V2Ray client to your backend Xray server. The goal: use Vercel's global edge network and the `*.vercel.app` domain as a front to hide the real IP of your origin server.
 
 ---     
+  
  
- 
-## این پروژه برای کیه؟
+## این پروژه برای 
 
 این پروژه فقط زمانی به دردت می‌خوره که **خودت یک سرور Xray با XHTTP داری** و می‌خوای IP اون رو با Vercel استتار کنی.
 
